@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: purple;
+  color: white;
+}
+.link {
+  color: beige;
+  text-decoration: none;
+}
